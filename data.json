@@ -1,0 +1,38 @@
+[
+    {
+        "content": "Hi Daniel Allen,\nYour order is confirmed! Email: daniel@email.com Phone: +123456789 We're getting your order ready for shipping as soon as possible. We will notify you when it is shipped. If delivered after Sep 21, you will get a AU$5 credit within 48 hours.",
+        "from": "Temu <temu@email.com>",
+        "subject": "Your Temu order confirmation (#PO-012-10901568553593644)",
+        "to": "daniel@email.com"
+    },
+    {
+        "content": "Monday\n4/12/2023\n\n\n\nNella\nTuesday\n5/12/2023\n\n\n\nNella\nWednesday\n6/12/2023\n\n\n\n\nThursday\n7/12/2023\n\n\n\nNella\nFriday\n8/12/2023\n\n\n\nNella",
+        "from": "\"Petronella Boonen (WorkSafe)\" <petronella@email.com>",
+        "subject": "leave",
+        "to": "Petronella Boonen <petronella@email.com>"
+    },
+    {
+        "content": "Generic data with Email: info@email.com and Phone: +987654321",
+        "from": "Hannah Stock <hannah@email.com>",
+        "subject": "Are you looking for your next opportunity? Media and PR",
+        "to": "<info@email.com>"
+    },
+    {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Email: john@email.com Phone: +1122334455 Nulla facilisi.",
+        "from": "John Doe <john@email.com>",
+        "subject": "Hello World",
+        "to": "Recipient <john@email.com>"
+    },
+    {
+        "content": "This is a test email with Email: test@email.com and Phone: +999888777",
+        "from": "Test User <test@email.com>",
+        "subject": "Test Subject",
+        "to": "<test@email.com>"
+    },
+    {
+        "content": "Random content with Email: random@email.com Phone: +777666555",
+        "from": "Random Person <random@email.com>",
+        "subject": "Random Subject",
+        "to": "<random@email.com>"
+    }
+]
