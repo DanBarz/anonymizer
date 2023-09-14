@@ -7,7 +7,7 @@
 using namespace std;
 
 
-void validate_email_data(placeholder_data placeholders);
+void validate_email_data(vector<anonymized_pattern> patterns);
 
 
 #endif // VALIDATION_H

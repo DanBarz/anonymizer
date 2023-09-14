@@ -1,38 +1,38 @@
 [
     {
-        "content": "Hi Daniel Allen,\nYour order is confirmed! Email: FZXC0wg0Lv Phone: +aJ6atJJx2a We're getting your order ready for shipping as soon as possible. We will notify you when it is shipped. If delivered after Sep 21, you will get a AU$5 credit within 48 hours.",
-        "from": "Temu <FZXC0wg0Lv>",
-        "subject": "Your Temu order confirmation (#PO-aJ6atJJx2a-10901568553593644)",
-        "to": "FZXC0wg0Lv"
+        "content": "Hi Daniel Allen,\nYour order is confirmed! Email:  Phone: + We're getting your order ready for shipping as soon as possible. We will notify you when it is shipped. If delivered after Sep 21, you will get a AU$5 credit within 48 hours.",
+        "from": "Temu <>",
+        "subject": "Your Temu order confirmation (#PO--10901568553593644)",
+        "to": ""
     },
     {
-        "content": "Monday\n4/12/aJ6atJJx2a\n\n\n\nNella\nTuesday\n5/12/aJ6atJJx2a\n\n\n\nNella\nWednesday\n6/12/aJ6atJJx2a\n\n\n\n\nThursday\n7/12/aJ6atJJx2a\n\n\n\nNella\nFriday\n8/12/aJ6atJJx2a\n\n\n\nNella",
-        "from": "\"Petronella Boonen (WorkSafe)\" <FZXC0wg0Lv>",
+        "content": "Monday\n4/12/\n\n\n\nNella\nTuesday\n5/12/\n\n\n\nNella\nWednesday\n6/12/\n\n\n\n\nThursday\n7/12/\n\n\n\nNella\nFriday\n8/12/\n\n\n\nNella",
+        "from": "\"Petronella Boonen (WorkSafe)\" <>",
         "subject": "leave",
-        "to": "Petronella Boonen <FZXC0wg0Lv>"
+        "to": "Petronella Boonen <>"
     },
     {
-        "content": "Generic data with Email: FZXC0wg0Lv and Phone: +aJ6atJJx2a",
-        "from": "Hannah Stock <FZXC0wg0Lv>",
+        "content": "Generic data with Email:  and Phone: +",
+        "from": "Hannah Stock <>",
         "subject": "Are you looking for your next opportunity? Media and PR",
-        "to": "<FZXC0wg0Lv>"
+        "to": "<>"
     },
     {
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Email: FZXC0wg0Lv Phone: +aJ6atJJx2a Nulla facilisi.",
-        "from": "John Doe <FZXC0wg0Lv>",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Email:  Phone: + Nulla facilisi.",
+        "from": "John Doe <>",
         "subject": "Hello World",
-        "to": "Recipient <FZXC0wg0Lv>"
+        "to": "Recipient <>"
     },
     {
-        "content": "This is a test email with Email: FZXC0wg0Lv and Phone: +aJ6atJJx2a",
-        "from": "Test User <FZXC0wg0Lv>",
+        "content": "This is a test email with Email:  and Phone: +",
+        "from": "Test User <>",
         "subject": "Test Subject",
-        "to": "<FZXC0wg0Lv>"
+        "to": "<>"
     },
     {
-        "content": "Random content with Email: FZXC0wg0Lv Phone: +aJ6atJJx2a",
-        "from": "Random Person <FZXC0wg0Lv>",
+        "content": "Random content with Email:  Phone: +",
+        "from": "Random Person <>",
         "subject": "Random Subject",
-        "to": "<FZXC0wg0Lv>"
+        "to": "<>"
     }
 ]
