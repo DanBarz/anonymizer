@@ -6,8 +6,6 @@
 #include "anonymizer.h"
 using namespace std;
 
-
 void validate_email_data(placeholder_data placeholders);
-
 
 #endif // VALIDATION_H

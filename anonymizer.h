@@ -20,6 +20,6 @@ struct anonymized_pattern {
 void initialize_patterns();
 std::string anonymize_text(const std::string text, const placeholder_data placeholders);
 string generate_random_replacement(int length);
-void add_pattern(const string& pattern, const string& replacement);
+void add_pattern(const string& pattern);
 
 #endif // ANONYMIZER_H

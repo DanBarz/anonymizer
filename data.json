@@ -1,12 +1,12 @@
 [
     {
-        "content": "Hi Daniel Allen,\nYour order is confirmed! Email: daniel@email.com Phone: +123456789 We're getting your order ready for shipping as soon as possible. We will notify you when it is shipped. If delivered after Sep 21, you will get a AU$5 credit within 48 hours.",
+        "content": "Hi Daniel Allen,Your order is confirmed! Email: daniel@email.com Phone: +123456789 We're getting your order ready for shipping as soon as possible. We will notify you when it is shipped. If delivered after Sep 21, you will get a AU$5 credit within 48 hours.",
         "from": "Temu <temu@email.com>",
         "subject": "Your Temu order confirmation (#PO-012-10901568553593644)",
         "to": "daniel@email.com"
     },
     {
-        "content": "Monday\n4/12/2023\n\n\n\nNella\nTuesday\n5/12/2023\n\n\n\nNella\nWednesday\n6/12/2023\n\n\n\n\nThursday\n7/12/2023\n\n\n\nNella\nFriday\n8/12/2023\n\n\n\nNella",
+        "content": "Contact us at (123) 456-7890 or via email at example@email.com for more information. If you have any questions, please feel free to reach out to us at (555) 123-4567 or contact our support team at support@example.com.",
         "from": "\"Petronella Boonen (WorkSafe)\" <petronella@email.com>",
         "subject": "leave",
         "to": "Petronella Boonen <petronella@email.com>"
