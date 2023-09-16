@@ -1,38 +1,92 @@
 [
     {
         "content": "Hi Daniel Allen,Your order is confirmed! Email: GzqklsJeY4 Phone: +czWCdvrAB5 We're getting your order ready for shipping as soon as possible. We will notify you when it is shipped. If delivered after Sep 21, you will get a AU$5 credit within 48 hours.",
-        "from": "Temu <FZXC0wg0Lv>",
+        "from": "Emma Davis <FZXC0wg0Lv>",
         "subject": "Your Temu order confirmation (#PO-EHhgcC0fY6-10901568553593644)",
-        "to": "nMnQFxQFk9"
+        "to": "Oliver Smith <nMnQFxQFk9>"
     },
     {
         "content": "Contact us at (Bh5xP338xS) Bh5xP338xS or via email at 8QOJMz4hux for more information. If you have any questions, please feel free to reach out to us at (Bh5xP338xS) Bh5xP338xS or contact our support team at 8QOJMz4hux.",
-        "from": "\"Petronella Boonen (WorkSafe)\" <ly34aaqwYG>",
-        "subject": "leave",
-        "to": "Petronella Boonen <0b0mWBpnrb>"
+        "from": "Liam Wilson <ly34aaqwYG>",
+        "subject": "Leave Application",
+        "to": "Sophia Johnson <0b0mWBpnrb>"
     },
     {
         "content": "Generic data with Email: oD6hSy0VpF and Phone: +68sr1heUZ0",
-        "from": "Hannah Stock <rBJZWGNzrC>",
+        "from": "Olivia Brown <rBJZWGNzrC>",
         "subject": "Are you looking for your next opportunity? Media and PR",
-        "to": "<nWtTPLFJv5>"
+        "to": "Lucas Lee <nWtTPLFJv5>"
     },
     {
         "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Email: zz33fwHrrB Phone: +8LY1UtE6n6 Nulla facilisi.",
-        "from": "John Doe <F4pRlBgYIK>",
+        "from": "William Miller <F4pRlBgYIK>",
         "subject": "Hello World",
-        "to": "Recipient <vFqI6paTVz>"
+        "to": "Charlotte Wilson <vFqI6paTVz>"
     },
     {
         "content": "This is a test email with Email: GKmXxVS6Tw and Phone: +N9iMFYzuYW",
-        "from": "Test User <zrHr1CI1A1>",
+        "from": "Chloe Taylor <zrHr1CI1A1>",
         "subject": "Test Subject",
-        "to": "<dddU6hVgfS>"
+        "to": "Mason Jones <dddU6hVgfS>"
     },
     {
-        "content": "Random content with Email: cEKpEboHGb Phone: +6CQyGORUZc",
-        "from": "Random Person <Rnla8Jounp>",
+        "content": "Random content with Email: cEKpEboHGb and Phone: +6CQyGORUZc",
+        "from": "Lachlan Anderson <Rnla8Jounp>",
         "subject": "Random Subject",
-        "to": "<3bW6N8UorC>"
+        "to": "Sienna Davis <3bW6N8UorC>"
+    },
+    {
+        "content": "Short email content with Email: js6txmH6Mw and Phone: RMIBGwjwNh",
+        "from": "Ella White <2016wTB2Pa>",
+        "subject": "Short Email Subject",
+        "to": "Zoe Smith <FNSSgN2MWe>"
+    },
+    {
+        "content": "Medium-length email content with Email: HcXqqo4tip and Phone: +8tVXvouSbt 8tVXvouSbt",
+        "from": "Henry Johnson <41XDQtc1kx>",
+        "subject": "Medium-Length Email Subject",
+        "to": "Sophie Williams <OqiCm0LYSJ>"
+    },
+    {
+        "content": "Long email content with Email: w8e5Gt1ekm and Phone: (Rp7Kjs36CO) Rp7Kjs36CO ext. Rp7Kjs36CO",
+        "from": "Oliver Martin <CkbxuR2xMK>",
+        "subject": "Long Email Subject",
+        "to": "Eva Robinson <zFJDb5KaVr>"
+    },
+    {
+        "content": "This is a very long email content. It contains a lot of text to test wrapping. Email: sHNmJMjWlI and Phone: Q5LForsrHm",
+        "from": "Ava Smith <zRyIidxeSP>",
+        "subject": "Long Email Subject with Wrapping Test",
+        "to": "Noah Johnson <iUlNl1LoSt>"
+    },
+    {
+        "content": "Short email content with Email: Ya3VjUD7LO and Phone: XAu67EK8p5",
+        "from": "Liam Wilson <prjNyYSg6n>",
+        "subject": "Another Short Email Subject",
+        "to": "Grace Taylor <EdPoGKB7kH>"
+    },
+    {
+        "content": "Test email content with Email: NdzzlUEYRB and Phone: 7Nw8GeOvQI-MY-PHONE",
+        "from": "Ella White <yn9tVg0sFs>",
+        "subject": "Test Email Subject",
+        "to": "James Robinson <ugLWuePZQm>"
+    },
+    {
+        "content": "Short content with Email: vcVTLMEvuw and Phone: enlCcuZvnc",
+        "from": "Aiden Anderson <TEuCV5g451>",
+        "subject": "Short Email Subject",
+        "to": "Ava Smith <m6F5y105rw>"
+    },
+    {
+        "content": "Medium-length content with Email: WXimCdrrdw and Phone: +qI513aeqJj qI513aeqJj. This content is longer than qI513aeqJj characters to test truncation. It contains additional text to reach a total length of qI513aeqJj characters.",
+        "from": "Sophie Williams <zx7T626N2x>",
+        "subject": "Medium-Length Email Subject",
+        "to": "Henry Johnson <EDiPV8yrUg>"
+    },
+    {
+        "content": "This is a very long email content with Email: ybSIKPfW65 and Phone: (xUR8xLTiSX) xUR8xLTiSX ext. xUR8xLTiSX. It is intended to test content with a length of more than xUR8xLTiSX characters, which is longer than the previous entries. The content continues to reach a total length of xUR8xLTiSX characters to test truncation.",
+        "from": "Noah Johnson <CR2CyWPESU>",
+        "subject": "Long Email Subject",
+        "to": "Eva Robinson <th7DahS3xJ>"
     }
 ]

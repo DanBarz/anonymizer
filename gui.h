@@ -10,6 +10,7 @@ struct GUI {
     int height;
 };
 
+void load_resources();
 void init_gui(GUI &gui, const std::string &configFile);
 void run_gui(GUI &gui);
 

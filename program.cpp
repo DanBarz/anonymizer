@@ -9,6 +9,8 @@
 int main() {
 
     placeholder_data placeholders;
+
+    load_resources();
     initialize_patterns();
     validate_email_data(placeholders);
 
