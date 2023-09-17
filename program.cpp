@@ -13,11 +13,11 @@ int main() {
     load_resources();
     initialize_patterns();
     validate_email_data(placeholders);
-
     
     GUI myGui;
     init_gui(myGui, "gui_config.json");
     run_gui(myGui);
+   
 
     return 0;
 }

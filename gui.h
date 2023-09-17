@@ -1,6 +1,6 @@
 #ifndef GUI_H
 #define GUI_H
-
+#include "anonymizer.h"
 #include "json.hpp"
 #include <string>
 
