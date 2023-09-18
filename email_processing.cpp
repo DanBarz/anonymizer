@@ -22,6 +22,8 @@ vector<email_content> read_data_from_json(const std::string &filename) {
     file >> jsonData;
     file.close();
 
+    cout << "Read " << jsonData.size() << " entries from " << filename << endl; // Debug statement
+
     for (const auto &entry : jsonData) {
         email_content email;
         email.from = entry["from"];
@@ -34,6 +36,31 @@ vector<email_content> read_data_from_json(const std::string &filename) {
 
     return emailData;
 }
+// vector<email_content> read_data_from_json(const std::string &filename) {
+//     vector<email_content> emailData;
+
+//     ifstream file(filename);
+//     if (!file.is_open()) {
+//         cerr << "Error opening " << filename << endl;
+//         return emailData;
+//     }
+
+//     json_custom jsonData; // Use your custom json type
+//     file >> jsonData;
+//     file.close();
+
+//     for (const auto &entry : jsonData) {
+//         email_content email;
+//         email.from = entry["from"];
+//         email.to = entry["to"];
+//         email.subject = entry["subject"];
+//         email.content = entry["content"];
+
+//         emailData.push_back(email);
+//     }
+
+//     return emailData;
+// }
 
 // Function to save email content to a JSON file
 void save_data_to_json(const std::string &filename, const vector<email_content> &emailData) {
