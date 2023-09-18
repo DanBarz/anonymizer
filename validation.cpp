@@ -1,6 +1,6 @@
 
 #include "validation.h"
-#include "splashkit.h"
+// #include "splashkit.h"
 #include "email_processing.h"
 #include "anonymizer.h"
 #include <vector>
@@ -8,12 +8,14 @@
 
 // This outputs the data to the console and processes the data
 void validate_email_data(placeholder_data placeholders) {
+
+    // Read the data from the JSON file and store it in a vector
     vector<email_content> emailData = read_data_from_json("data.json");
 
     // Continue with anonymization and other operations
     for (email_content &email : emailData) {
 
-        // Display the original email content
+        // Display the original email content to console
         cout << "Original Content (From): " << email.from << endl;
         cout << "Original Content (To): " << email.to << endl;
         cout << "Original Content (Subject): " << email.subject << endl;
@@ -25,7 +27,7 @@ void validate_email_data(placeholder_data placeholders) {
         email.subject = anonymize_text(email.subject, placeholders);
         email.content = anonymize_text(email.content, placeholders);
 
-        // Display the anonymized email content
+        // Display the anonymized email content to console
         cout << "Anonymized Content (From): " << email.from << endl;
         cout << "Anonymized Content (To): " << email.to << endl;
         cout << "Anonymized Content (Subject): " << email.subject << endl;

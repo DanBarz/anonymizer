@@ -1,25 +1,25 @@
 #include "gui.h"
 #include "anonymizer.h"
-#include "splashkit.h"
+// #include "splashkit.h"
 #include "json.hpp"
 #include <iostream>
 #include <fstream>
 #include <string>
 #include <vector>
 
-// Function to load resources
+// Load resources
 void load_resources() {
 
     load_font("arial", "DMSans_36pt-Bold.ttf");
 }
 
-// Function to display text on the GUI
+// Display text on the GUI
 void display_text(const std::string &text, int x, int y) {
     color text_color = random_color();
     draw_text(text, text_color, "arial", 16, x, y);
 }
 
-// Function to render a long string, splitting it into segments if necessary
+// Render a long string, splitting it into segments if necessary
 void render_long_string(const std::string &text, int x, int y, int max_width, int font_size) {
     const std::string font_name = "arial";
     
@@ -36,13 +36,14 @@ void render_long_string(const std::string &text, int x, int y, int max_width, in
     }
 }
 
-// Function to initialize the GUI
+// Initialize the GUI
 void init_gui(GUI &gui, const std::string &configFile) {
     // Read the configuration from the JSON file
     try {
         nlohmann::json jsonConfig;
         std::ifstream configFileStream(configFile);
         
+        // Check if the file was opened successfully
         if (!configFileStream.is_open()) {
             std::cerr << "Error opening config file: " << configFile << std::endl;
             exit(1);

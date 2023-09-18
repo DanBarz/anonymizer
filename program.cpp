@@ -6,6 +6,18 @@
 #include "email_processing.h"
 #include <vector>
 #include <iostream>
+#include "splashkit.h"
+
+// Data Anonymizer V 1.0
+// This program is designed to anonymize data contained in a JSON file (output data received from gmail perhaps)
+// The program will read the JSON file and anonymize the data, then output the data to a new JSON file
+// The program has a GUI that will appear after the data has been anonymized to allow the user to verify the data
+
+// The user will then use that anonymous JSON data in something like chatGPT and then output the data to a CSV file
+
+// The program will also allow the user to revert the anonymized data back to the original data
+// It takes the information recieved in the form of a CSV file and processes it to insert back the secure information
+// From this point you can insert it into a database or whatever you want to do with it
 
 // This is the menu that will be displayed to the user
 void menu(placeholder_data& placeholders ) {
@@ -13,9 +25,10 @@ void menu(placeholder_data& placeholders ) {
     int choice;
 
     // Menu for user to choose if they want to process the CSV file now
-    std::cout << "Do you want to process your CSV to insert back the secure information?" << std::endl;
-    std::cout << "Press 1 for yes and 2 for no: ";
-    std::cin >> choice;
+    write_line ("Do you want to process your CSV to insert back the secure information?");
+    write_line ("Press 1 for yes and 2 for no: ");
+    choice = convert_to_integer(read_line());
+    
 
     // Working with .csv file
     if (choice == 1) {

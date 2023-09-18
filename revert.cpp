@@ -26,8 +26,11 @@ void loadMappingsFromJson(placeholder_data& placeholders) {
         file >> j;
         file.close();
 
+        // If the JSON data contains a "swapped" key, read the mappings
         if (j.find("swapped") != j.end()) {
             auto swapped = j["swapped"];
+
+            // Iterate through each mapping and add it to the placeholder data
             for (const auto& mapping : swapped) {
                 std::map<std::string, std::string> reversedMapping;
                 for (auto it = mapping.begin(); it != mapping.end(); ++it) {
