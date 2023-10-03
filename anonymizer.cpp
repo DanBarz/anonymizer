@@ -81,12 +81,12 @@ string generate_random_replacement(int length) {
 
 // Adds a pattern to the patterns vector
 void add_pattern(const string& pattern) {
-    write_line("Inside add_pattern");
+    // write_line("Inside add_pattern");
     anonymized_pattern newPattern;
     newPattern.pattern = pattern;
-    write_line("Pattern: " + pattern);
+    // write_line("Pattern: " + pattern);
     patterns.push_back(newPattern);
-    write_line("End of add_pattern");
+    // write_line("End of add_pattern");
 }
 
 // Saves the mappings to the JSON file

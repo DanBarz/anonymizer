@@ -1,4 +1,6 @@
 
+#include "email_logic.h"
+#include "gmail_connector.h"
 #include "validation.h"
 #include "revert.h"
 #include "gui.h"
@@ -52,6 +54,8 @@ int main() {
 
     // Initialize the patterns used for anonymization
     initialize_patterns();
+
+    EmailLogic::processEmails(5);
 
     // This outputs the data to the console and processes the data
     validate_email_data(placeholders);

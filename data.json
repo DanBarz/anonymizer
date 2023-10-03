@@ -1,92 +1,32 @@
 [
     {
-        "content": "Hi Daniel Allen,Your order is confirmed! Email: daniel@email.com Phone: +123456789 We're getting your order ready for shipping as soon as possible. We will notify you when it is shipped. If delivered after Sep 21, you will get a AU$5 credit within 48 hours.",
-        "from": "Emma Davis <emma@email.com>",
-        "subject": "Your Temu order confirmation (#PO-012-10901568553593644)",
-        "to": "Oliver Smith <oliver@email.com>"
+        "from": "Canva <marketing@engage.canva.com>",
+        "to": "danielpeterallen@gmail.com",
+        "subject": "Ready for magic?",
+        "content": "It&#39;s coming your way soon. Canva Design with Canva Don&#39;t miss out on magic Experience Magic like never before. By now, you may have tried a few of Canva&#39;s AI-powered tools, like Magic Edit"
     },
     {
-        "content": "Contact us at (123) 456-7890 or via email at example@email.com for more information. If you have any questions, please feel free to reach out to us at (555) 123-4567 or contact our support team at support@example.com.",
-        "from": "Liam Wilson <liam@email.com>",
-        "subject": "Leave Application",
-        "to": "Sophia Johnson <sophia@email.com>"
+        "from": "<noreply@nabtrade.com.au>",
+        "to": "<danielpeterallen@gmail.com>",
+        "subject": "Alerts",
+        "content": "Having trouble seeing this email? Log in to nabtrade and select your alerts to view it online. Weebit Nano Ltd WBT:ASX | volume exceeds 10 day Avg. by 1.24% Alert triggered on 03/10/2023, 12:13:40 PM"
     },
     {
-        "content": "Generic data with Email: info@email.com and Phone: +987654321",
-        "from": "Olivia Brown <olivia@email.com>",
-        "subject": "Are you looking for your next opportunity? Media and PR",
-        "to": "Lucas Lee <lucas@email.com>"
+        "from": "The Colonel <kfcmail@kfc.com.au>",
+        "to": "danielpeterallen@gmail.com",
+        "subject": "\u200bDan, here\u2019s a deal. Actually, here's three \ud83d\ude31",
+        "content": "Dan, this&#39;ll make you feel chipper \ud83e\udd17 $2 Large Chips $2 Large Chips NOW THAT&#39;S SOME GOOD CHIP NOW THAT&#39;S SOME GOOD CHIP \ud83d\ude2e\u200d\ud83d\udca8 They&#39;re hot. They&#39;re golden. They&#39;re giant. They&#39;"
     },
     {
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Email: john@email.com Phone: +1122334455 Nulla facilisi.",
-        "from": "William Miller <william@email.com>",
-        "subject": "Hello World",
-        "to": "Charlotte Wilson <charlotte@email.com>"
+        "from": "Google Takeout <noreply@google.com>",
+        "to": "danielpeterallen@gmail.com",
+        "subject": "Your Google data is ready to download",
+        "content": "Your account, your data. We&#39;ve finished creating a copy of the Google data you requested on October 2, 2023. You can download your files until October 9, 2023. Your download will contain data from:"
     },
     {
-        "content": "This is a test email with Email: test@email.com and Phone: +999888777",
-        "from": "Chloe Taylor <chloe@email.com>",
-        "subject": "Test Subject",
-        "to": "Mason Jones <mason@email.com>"
-    },
-    {
-        "content": "Random content with Email: random@email.com and Phone: +777666555",
-        "from": "Lachlan Anderson <lachlan@email.com>",
-        "subject": "Random Subject",
-        "to": "Sienna Davis <sienna@email.com>"
-    },
-    {
-        "content": "Short email content with Email: test.email@example.com and Phone: 123-456-7890",
-        "from": "Ella White <ella@example.com>",
-        "subject": "Short Email Subject",
-        "to": "Zoe Smith <zoe@example.com>"
-    },
-    {
-        "content": "Medium-length email content with Email: user.email@mydomain.co.uk and Phone: +44 20 1234 5678",
-        "from": "Henry Johnson <henry@mydomain.co.uk>",
-        "subject": "Medium-Length Email Subject",
-        "to": "Sophie Williams <sophie@mydomain.co.uk>"
-    },
-    {
-        "content": "Long email content with Email: long.email@example.org and Phone: (555) 123-4567 ext. 1234",
-        "from": "Oliver Martin <oliver@example.org>",
-        "subject": "Long Email Subject",
-        "to": "Eva Robinson <eva@example.org>"
-    },
-    {
-        "content": "This is a very long email content. It contains a lot of text to test wrapping. Email: test@example.com and Phone: 800-555-1212",
-        "from": "Ava Smith <ava@example.com>",
-        "subject": "Long Email Subject with Wrapping Test",
-        "to": "Noah Johnson <noah@example.com>"
-    },
-    {
-        "content": "Short email content with Email: email@example.com and Phone: 5551234567",
-        "from": "Liam Wilson <liam@example.com>",
-        "subject": "Another Short Email Subject",
-        "to": "Grace Taylor <grace@example.com>"
-    },
-    {
-        "content": "Test email content with Email: test.email@example.org and Phone: 1-800-MY-PHONE",
-        "from": "Ella White <ella@example.org>",
-        "subject": "Test Email Subject",
-        "to": "James Robinson <james@example.org>"
-    },
-    {
-        "content": "Short content with Email: test.email@example.com and Phone: 123-456-7890",
-        "from": "Aiden Anderson <aiden@example.com>",
-        "subject": "Short Email Subject",
-        "to": "Ava Smith <ava@example.com>"
-    },
-    {
-        "content": "Medium-length content with Email: user.email@mydomain.co.uk and Phone: +44 20 1234 5678. This content is longer than 111 characters to test truncation. It contains additional text to reach a total length of 222 characters.",
-        "from": "Sophie Williams <sophie@mydomain.co.uk>",
-        "subject": "Medium-Length Email Subject",
-        "to": "Henry Johnson <henry@mydomain.co.uk>"
-    },
-    {
-        "content": "This is a very long email content with Email: long.email@example.org and Phone: (555) 123-4567 ext. 1234. It is intended to test content with a length of more than 333 characters, which is longer than the previous entries. The content continues to reach a total length of 444 characters to test truncation.",
-        "from": "Noah Johnson <noah@example.org>",
-        "subject": "Long Email Subject",
-        "to": "Eva Robinson <eva@example.org>"
+        "from": "The GERD Chef <thegerdchef@gmail.com>",
+        "to": "<danielpeterallen@gmail.com>",
+        "subject": "New Recipe: GERD-Friendly Turkish Potatoes",
+        "content": "A family recipe now shared with you \ud83e\udd0d \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c \u200c"
     }
 ]
