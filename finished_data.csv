@@ -1,13 +1,4 @@
-Email Subject,Sender,Recipient,Email Content
-Short Email Subject,Liam Wilson <dddU6hVgfS>,Grace Taylor <qV7KHfc4rE>,Short email content with Email: mWQX4eq3cr and Phone: 1nXS6ox1UR
-Medium-Length Email Subject,Sophie Williams <gQEaxrikuh>,Henry Johnson <OVzvK9KMUA>,Medium-length email content with Email: F4pRlBgYIK and Phone: +UGYyQJ21Md UGYyQJ21Md
-Medium-Length Email Subject,Sophie Williams <gQEaxrikuh>,Henry Johnson <OVzvK9KMUA>,Medium-length content with Email: 5pm8nOFEje and Phone: +mbfFFu3N3O mbfFFu3N3O. This content is longer than mbfFFu3N3O characters to test truncation.
-Long Email Subject,Oliver Martin <ne82nl2S3v>,Eva Robinson <VXEvqVxrl9>,Long email content with Email: djIMcGVc4n and Phone: (8UVoq6Cvzz) 8UVoq6Cvzz ext. 8UVoq6Cvzz
-Long Email Subject with Wrapping Test,Ava Smith <apZgTiLtRT>,Noah Johnson <ME3sKLxZ1y>,This is a very long email content. It contains a lot of text to test wrapping. Email: zrHr1CI1A1 and Phone: Dl1JkFPk0A
-Long Email Subject,Noah Johnson <2016wTB2Pa>,Eva Robinson <VXEvqVxrl9>,This is a very long email content with Email: mUnH44mOJt and Phone: (1g2b6D8FVA) 1g2b6D8FVA ext. 1g2b6D8FVA. It is intended to test content with a length of more than 1g2b6D8FVA characters, which is longer than the previous entries. The content continues to reach a total length of 1g2b6D8FVA characters to test truncation.
-Your Temu order confirmation (#PO-9vnfSFj4Qh-10901568553593644),Emma Davis <FZXC0wg0Lv>,Oliver Smith <aJ6atJJx2a>,Hi Daniel Allen,Your order is confirmed! Email: nMnQFxQFk9 Phone: +nXWUGGW4Mf We're getting your order ready for shipping as soon as possible. We will notify you when it is shipped.
-Leave Application,Liam Wilson <CbDJBehkVR>,Sophia Johnson <lk5T5PjQpY>,Contact us at (HlJZjcAryS) HlJZjcAryS or via email at EHhgcC0fY6 for more information. If you have any questions, please feel free to reach out to us at (HlJZjcAryS) HlJZjcAryS or contact our support team at EHhgcC0fY6.
-Are you looking for your next opportunity? Media and PR,Olivia Brown <kKpjNKgr7q>,Lucas Lee <0b0mWBpnrb>,Generic data with Email: 7bji6DQPrZ and Phone: +1GLSxjSdcL
-Hello World,William Miller <83Pevyss5r>,Charlotte Wilson <Ywolzlvxds>,Lorem ipsum dolor sit amet, consectetur adipiscing elit. Email: z7H6hjK0Tj Phone: +bFiEWJuIKS
-Test Subject,Chloe Taylor <BWq4yuiNog>,Mason Jones <vFxyo2xLEw>,This is a test email with Email: rBJZWGNzrC and Phone: +XrHCCKqqLp
-Random Subject,Lachlan Anderson <B4PSSCZXpd>,Sienna Davis <nWtTPLFJv5>,Random content with Email: z9YbMZYE88 and Phone: +FnjE8bCxSQ
+From,To,Subject,Content
+"Digital Jobs Program <FZXC0wg0Lv>","Daniel <aJ6atJJx2a>","Applications for final round of Digital Jobs close 22 October 9vnfSFj4Qh","Hi Daniel, In nMnQFxQFk9, the Digital Jobs program set out to upskill nMnQFxQFk9 Victorians with in demand digital skills so they can transition into digital careers. Since then, over nMnQFxQFk9 Victorians have"
+"The Colonel <Fv74LOLX4o>","HlJZjcAryS","​Dan, we’ve got three fiery secrets in here for you 🔓 ​​🔥","Dan, Luude's fiery feed is here Luude's Zinger Slides Luude's Zinger Slides New Luude's Zinger Slides New Luude's Zinger Slides From fire tracks to fiery feeds, try the new Zinger ®"
+"Jetstar Airways <GzqklsJeY4>","czWCdvrAB5","Taste of Asia Sale – Fares from $Y965csuRP2^","Hurry, don't miss out! | View online Jetstar Hurry, ends Friday! Rather be on holiday? View all fares Can't find any fares from your nearest airport? Update your preferences to receive targeted"

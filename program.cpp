@@ -27,8 +27,9 @@ void menu(placeholder_data& placeholders ) {
     int choice;
 
     // Menu for user to choose if they want to process the CSV file now
-    write_line ("Do you want to process your CSV to insert back the secure information?");
-    write_line ("Press 1 for yes and 2 for no: ");
+    write_line ("Menu:");
+    write_line (" \n * Choose 1 to process the CSV file now \n * Choose 2 to get emails and convert. \n * Choose 3 to exit. \n ");
+
     choice = convert_to_integer(read_line());
     
 
@@ -41,11 +42,35 @@ void menu(placeholder_data& placeholders ) {
         // Process the CSV data and write to a new CSV file
         processCSVWithMapping("finished_data.csv", "output_data.csv", placeholders.mappings);
     }
+    else if (choice == 2) {
+
+        int num_emails;
+        write_line("How many emails do you want to process?");
+        num_emails = convert_to_integer(read_line());
+        write_line("Running program.");
+        EmailLogic::processEmails(num_emails);
+        // This outputs the data to the console and processes the data
+        validate_email_data(placeholders);
+        
+        // variable for GUI
+        GUI myGui;
+
+        // Initialize the GUI
+        init_gui(myGui, "gui_config.json");
+        // Run the GUI to display the anon data from the JSON file for verification
+    
+        run_gui(myGui);
+    }
+    else {
+        write_line("Exiting program.");
+        exit(0);
+    }
 }
 
 // Main function starts
 int main() {
     
+
     // Create a placeholder_data object to store the mappings
     placeholder_data placeholders;
 
@@ -55,23 +80,10 @@ int main() {
     // Initialize the patterns used for anonymization
     initialize_patterns();
 
-    EmailLogic::processEmails(5);
-
-    // This outputs the data to the console and processes the data
-    validate_email_data(placeholders);
-    
-    // variable for GUI
-    GUI myGui;
-
-    // Initialize the GUI
-    init_gui(myGui, "gui_config.json");
-
     // Menu for user to choose if they want to process the CSV file now
     menu(placeholders);
 
-    // Run the GUI to display the anon data from the JSON file for verification
-    run_gui(myGui);
-
+    
     // program finished message
     cout << "Program finished." << endl;    
     return 0;

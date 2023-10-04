@@ -9,7 +9,7 @@ from googleapiclient.discovery import build
 
 SCOPES = ['https://www.googleapis.com/auth/gmail.readonly']
 
-def fetch_emails(num_emails=25):
+def fetch_emails(num_emails):
     creds = None
     if os.path.exists('token.json'):
         creds = Credentials.from_authorized_user_file('token.json')
@@ -65,7 +65,7 @@ def fetch_emails(num_emails=25):
         json.dump(email_data, f, indent=4)
 
 if __name__ == '__main__':
-    num_emails = int(sys.argv[1]) if len(sys.argv) > 1 else 25
+    num_emails = int(sys.argv[1]) if len(sys.argv) > 1 else 5
     fetch_emails(num_emails)
 
 
